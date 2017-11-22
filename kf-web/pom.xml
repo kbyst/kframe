@@ -38,6 +38,19 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <artifactId>kf-dao</artifactId>
+            <groupId>com.kframe.solo</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <artifactId>kf-service</artifactId>
+            <groupId>com.kframe.solo</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <!-- junit -->
         <dependency>
             <groupId>junit</groupId>
